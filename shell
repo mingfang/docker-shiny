@@ -1,0 +1,1 @@
+docker run -p 49038:3838 -v /mnt/mfang/source/mysource/docker/shiny/tutorial:/var/shiny-server/www/tutorial -t -i shiny /bin/bash
